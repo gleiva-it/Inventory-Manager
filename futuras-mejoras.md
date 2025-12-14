@@ -1,4 +1,3 @@
- Mejoras Futuras
 Este proyecto es una implementación base. Las siguientes características están planificadas para futuras iteraciones:
 
 Validaciones: Implementar manejo de excepciones para evitar precios negativos o caracteres inválidos.
